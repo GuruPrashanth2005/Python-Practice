@@ -7,3 +7,4 @@ mean_age = np.mean(data['Age'])
 print(data)
 print("Mean Age:", mean_age)
 print(data['Age'] >= mean_age)
+#finished
